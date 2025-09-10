@@ -1,0 +1,42 @@
+name: Update Study Badges (Ruby)
+
+on:
+  schedule:
+    # JST 23:55 は UTC 14:55
+    - cron: "55 14 * * *"
+  push:
+    paths:
+      - "data/study_log.csv"
+      - "scripts/update_badges.rb"
+      - ".github/workflows/badges.yml"
+  workflow_dispatch: {}
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: "3.2"
+
+      - name: Generate badges
+        run: ruby scripts/update_badges.rb
+
+      - name: Commit & Push badge JSON
+        run: |
+          if [ -n "$(git status --porcelain badges/*.json 2>/dev/null)" ]; then
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add badges/*.json
+            git commit -m "chore(badges): update badges [skip ci]"
+            git push
+          else
+            echo "No badge changes."
+          fi
