@@ -5,9 +5,10 @@
 ---
 
 ## Study Badges
-![Today](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2F<USER>%2F<REPO>%2Fmain%2Fbadges%2Fdaily.json)
-![Last 7 Days](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2F<USER>%2F<REPO>%2Fmain%2Fbadges%2Fweekly.json)
-![Streak](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2F<USER>%2F<REPO>%2Fmain%2Fbadges%2Fstreak.json)
+![Today](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fpoposann0746%2Ftil%2Fmain%2Fbadges%2Fdaily.json)
+![Last 7 Days](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fpoposann0746%2Ftil%2Fmain%2Fbadges%2Fweekly.json)
+![Streak](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fpoposann0746%2Ftil%2Fmain%2Fbadges%2Fstreak.json)
+
 
 
 ## Languages in Progress
