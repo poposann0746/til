@@ -4,10 +4,14 @@
 
 ---
 
-## Study Badges
-![Today](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fpoposann0746%2Ftil%2Fmain%2Fbadges%2Fdaily.json)
-![Last 7 Days](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fpoposann0746%2Ftil%2Fmain%2Fbadges%2Fweekly.json)
-![Streak](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fpoposann0746%2Ftil%2Fmain%2Fbadges%2Fstreak.json)
+## Study Badges## 🕒 Study Badges
+
+<p align="left">
+  <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fpoposann0746%2Ftil%2Fmain%2Fbadges%2Fdaily.json" width="200">
+  <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fpoposann0746%2Ftil%2Fmain%2Fbadges%2Fweekly.json" width="200">
+  <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fpoposann0746%2Ftil%2Fmain%2Fbadges%2Fstreak.json" width="200">
+</p>
+
 
 
 
