@@ -1,36 +1,66 @@
+# TIL (Today I Learned)  
 
-# TIL (Today I Learned)
+> **プログラミングの学習ログを毎日記録していくリポジトリです。**    
 
-このリポジトリは、RUNTEQでのプログラミング学習を中心に、  
-日々学んだこと・気づき・コードスニペットを記録するための TIL (Today I Learned) です。
+---
+
+## Study Badges
+![Today](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fpoposann0746%2Ftil%2Fmain%2Fbadges%2Fdaily.json)
+![Last 7 Days](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fpoposann0746%2Ftil%2Fmain%2Fbadges%2Fweekly.json)
+![Streak](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fpoposann0746%2Ftil%2Fmain%2Fbadges%2Fstreak.json)
+
+
+
+## Languages in Progress
+![Ruby](https://img.shields.io/badge/Ruby-7.1-red?style=for-the-badge&logo=ruby&logoColor=white)
+![Rails](https://img.shields.io/badge/Rails-7.1-cc0000?style=for-the-badge&logo=rubyonrails&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-yellow?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-Learning-61dafb?style=for-the-badge&logo=react&logoColor=black)
+![SQL](https://img.shields.io/badge/PostgreSQL-Learning-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+
+**Contribution Graph**  
+![GitHub Streak](https://streak-stats.demolab.com?user=poposann0746&theme=tokyonight&hide_border=true)  
+
+---
 
 ## 目的
-- 学習ログを残し、日々の積み重ねを可視化する
-- 振り返りによって理解を定着させる
-- GitHubに毎日コミットして習慣化する
+- 学習ログを可視化してモチベーションをUPさせる
+- 振り返りを通して知識を定着  
+- 毎日学習記録をコミットし、確実な習慣づけを行う
 
-## フォーマット
-各月ごとに1ファイルを作成し、以下のフォーマットに従って記録します。
+---
+
+## 記録フォーマット  
 
 ```markdown
-# TIL (Today I Learned) - YYYY/MM/DD
+# TIL - YYYY/MM/DD
 
-## 🕒 学習時間
+## 学習時間
 - 合計: X時間
 - 内訳:
   - RUNTEQ教材: Xh
   - 個人開発: Xh
   - その他: Xh
 
+---
+
 ## 学習内容
 - [ ] 学習したことを箇条書きで
-- [ ] 使用した教材やリンク
+- [ ] 使用した教材・リンク
+
+---
 
 ## 学んだこと・気づき
-- 新しく理解できたこと
-- 詰まったポイントと解決法
+新しく理解できたこと  
+詰まったポイントと解決法  
+自分なりの要約やTips  
+
+---
 
 ## 実践・コードスニペット
 ```ruby
 # 今日印象に残ったコード例
-puts "Hello, TIL!"
+def hello_til
+  puts "Hello, TIL!"
+end
