@@ -4,11 +4,11 @@
 
 ---
 
-## 学習継続ステータス
+## ステータス
 
-![GitHub commit activity](https://img.shields.io/github/commit-activity/m/poposann0746/til?color=green&label=commits%20per%20month&logo=github)  
-![GitHub last commit](https://img.shields.io/github/last-commit/poposann0746/til?color=blue&label=last%20updated&logo=git)  
-![GitHub repo size](https://img.shields.io/github/repo-size/poposann0746/til?color=purple&label=repo%20size&logo=files)  
+![Daily Study](https://img.shields.io/badge/Study_Duration-5h/day-ff69b4?style=for-the-badge&logo=icloud&logoColor=white)
+![Weekly Study](https://img.shields.io/badge/Study_Duration-35h/week-blue?style=for-the-badge&logo=icloud&logoColor=white)
+
 
 **Contribution Graph**  
 ![GitHub Streak](https://streak-stats.demolab.com?user=poposann0746&theme=tokyonight&hide_border=true)  
