@@ -4,13 +4,11 @@
 
 ---
 
-## Status
-![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge&logo=github)
-![Commit Streak](https://img.shields.io/badge/Streak-10_days-green?style=for-the-badge&logo=firefox&logoColor=orange)
+## Study Badges
+![Today](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2F<USER>%2F<REPO>%2Fmain%2Fbadges%2Fdaily.json)
+![Last 7 Days](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2F<USER>%2F<REPO>%2Fmain%2Fbadges%2Fweekly.json)
+![Streak](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2F<USER>%2F<REPO>%2Fmain%2Fbadges%2Fstreak.json)
 
-## Study Time
-![Daily Study](https://img.shields.io/badge/Study_Duration-5h/day-ff69b4?style=for-the-badge&logo=icloud&logoColor=white)
-![Weekly Study](https://img.shields.io/badge/Study_Duration-35h/week-blue?style=for-the-badge&logo=icloud&logoColor=white)
 
 ## Languages in Progress
 ![Ruby](https://img.shields.io/badge/Ruby-7.1-red?style=for-the-badge&logo=ruby&logoColor=white)
