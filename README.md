@@ -9,6 +9,14 @@
 ![Daily Study](https://img.shields.io/badge/Study_Duration-5h/day-ff69b4?style=for-the-badge&logo=icloud&logoColor=white)
 ![Weekly Study](https://img.shields.io/badge/Study_Duration-35h/week-blue?style=for-the-badge&logo=icloud&logoColor=white)
 
+![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge&logo=github)
+![Commit Streak](https://img.shields.io/badge/Streak-10_days-green?style=for-the-badge&logo=firefox&logoColor=orange)
+![Ruby](https://img.shields.io/badge/Ruby-7.1-red?style=for-the-badge&logo=ruby&logoColor=white)
+![Rails](https://img.shields.io/badge/Rails-7.1-cc0000?style=for-the-badge&logo=rubyonrails&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-yellow?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-Learning-61dafb?style=for-the-badge&logo=react&logoColor=black)
+![SQL](https://img.shields.io/badge/PostgreSQL-Learning-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
 
 **Contribution Graph**  
 ![GitHub Streak](https://streak-stats.demolab.com?user=poposann0746&theme=tokyonight&hide_border=true)  
