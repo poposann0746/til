@@ -1,36 +1,57 @@
+# TIL (Today I Learned)  
 
-# TIL (Today I Learned)
+> **プログラミングの学習ログを毎日記録していくリポジトリです。**    
 
-このリポジトリは、RUNTEQでのプログラミング学習を中心に、  
-日々学んだこと・気づき・コードスニペットを記録するための TIL (Today I Learned) です。
+---
+
+## 学習継続ステータス
+
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/poposann0746/til?color=green&label=commits%20per%20month&logo=github)  
+![GitHub last commit](https://img.shields.io/github/last-commit/poposann0746/til?color=blue&label=last%20updated&logo=git)  
+![GitHub repo size](https://img.shields.io/github/repo-size/poposann0746/til?color=purple&label=repo%20size&logo=files)  
+
+**Contribution Graph**  
+![GitHub Streak](https://streak-stats.demolab.com?user=poposann0746&theme=tokyonight&hide_border=true)  
+
+---
 
 ## 目的
-- 学習ログを残し、日々の積み重ねを可視化する
-- 振り返りによって理解を定着させる
-- GitHubに毎日コミットして習慣化する
+- 学習ログを可視化してモチベーションをUPさせる
+- 振り返りを通して知識を定着  
+- 毎日学習記録をコミットし、確実な習慣づけを行う
 
-## フォーマット
-各月ごとに1ファイルを作成し、以下のフォーマットに従って記録します。
+---
+
+## 記録フォーマット  
 
 ```markdown
-# TIL (Today I Learned) - YYYY/MM/DD
+# TIL - YYYY/MM/DD
 
-## 🕒 学習時間
+## 学習時間
 - 合計: X時間
 - 内訳:
   - RUNTEQ教材: Xh
   - 個人開発: Xh
   - その他: Xh
 
+---
+
 ## 学習内容
 - [ ] 学習したことを箇条書きで
-- [ ] 使用した教材やリンク
+- [ ] 使用した教材・リンク
+
+---
 
 ## 学んだこと・気づき
-- 新しく理解できたこと
-- 詰まったポイントと解決法
+新しく理解できたこと  
+詰まったポイントと解決法  
+自分なりの要約やTips  
+
+---
 
 ## 実践・コードスニペット
 ```ruby
 # 今日印象に残ったコード例
-puts "Hello, TIL!"
+def hello_til
+  puts "Hello, TIL!"
+end
