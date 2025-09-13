@@ -43,7 +43,7 @@
 ## 学習時間
 - 合計: X時間
 - 内訳:
-  - RUNTEQ教材: Xh
+  - RUNTEQ学習: Xh
   - 個人開発: Xh
   - その他: Xh
 
@@ -68,3 +68,4 @@
 def hello_til
   puts "Hello, TIL!"
 end
+```
