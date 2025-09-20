@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
   "label": "last 7 days",
-  "message": "14h",
-  "color": "green"
+  "message": "9h",
+  "color": "yellow"
 }
